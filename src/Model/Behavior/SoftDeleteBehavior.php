@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace SoftDelete\Behavior;
+namespace SoftDelete\Model\Behavior;
 
 use Cake\ORM\Behavior;
 use Cake\ORM\Query;
